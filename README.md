@@ -59,7 +59,7 @@ Kemudian masukkan ip yang akan diuji
 ```
 nmap ip_yang_dituju
 ```
-Lihat pada log host yang dilakukan nmap tadi
+Lihat pada log host yang dilakukan nmap pada proses sebelumnya
 ```
  grep portsentry /var/log/syslog
 ```
